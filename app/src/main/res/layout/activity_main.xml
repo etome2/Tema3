@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:gravity="bottom">
-                <Button
+              <!--  <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -28,7 +28,7 @@
                     android:textColor="#fff"
                     android:layout_gravity="center"
                     android:onClick="moveCamera"
-                    android:text="ir a UNSM"/>
+                    android:text="ir a UNSM"/>-->
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
