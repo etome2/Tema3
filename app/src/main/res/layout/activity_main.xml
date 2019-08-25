@@ -11,6 +11,20 @@
         android:layout_height="0dp"
         android:layout_weight="80"
         class="com.google.android.gms.maps.SupportMapFragment">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            >
+            <ImageView
+                android:id="@+id/imgMarker"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="21dp"
+                android:src="@mipmap/markermap"/>
+        </FrameLayout>
     </fragment>
     <LinearLayout
         android:layout_width="match_parent"
