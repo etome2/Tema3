@@ -45,7 +45,7 @@
                 android:textColor="#fff"
                 android:layout_gravity="center"
                 android:onClick="moveCamera"
-                android:text="ir a UNJBG"/>
+                android:text="ir a UNSM"/>
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -55,6 +55,17 @@
                 android:layout_gravity="center"
                 android:onClick="addMarker"
                 android:text="Marcador"/>
+
+            <Button
+                android:id="@+id/btnmiubi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimaryDark"
+                android:textColor="#fff"
+                android:layout_gravity="center"
+                android:onClick="ubicacion"
+                android:text="Mi ubicacion"/>
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
