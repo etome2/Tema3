@@ -28,7 +28,7 @@
                     android:textColor="#fff"
                     android:layout_gravity="center"
                     android:onClick="moveCamera"
-                    android:text="ir a UNSM"/>
+                    android:text="ir a UNSMmmmm"/>
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
